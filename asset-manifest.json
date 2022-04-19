@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/weather_app_deploy/static/css/main.e6c13ad2.css",
-    "main.js": "/weather_app_deploy/static/js/main.4e8411e7.js",
+    "main.css": "/weather_app_deploy/static/css/main.9fc2d18a.css",
+    "main.js": "/weather_app_deploy/static/js/main.44397668.js",
+    "static/media/material-icons-two-tone.woff": "/weather_app_deploy/static/media/material-icons-two-tone.ee71463e28071436d096.woff",
+    "static/media/material-icons-two-tone.woff2": "/weather_app_deploy/static/media/material-icons-two-tone.7e94e72135150c6b387c.woff2",
+    "static/media/material-icons-round.woff": "/weather_app_deploy/static/media/material-icons-round.159dc8004e17a33f287f.woff",
+    "static/media/material-icons-outlined.woff": "/weather_app_deploy/static/media/material-icons-outlined.123a7ad6784163c39aaa.woff",
+    "static/media/material-icons-round.woff2": "/weather_app_deploy/static/media/material-icons-round.7c985a8aea387341edf9.woff2",
+    "static/media/material-icons.woff": "/weather_app_deploy/static/media/material-icons.824b570fb059ee0a44a9.woff",
+    "static/media/material-icons-sharp.woff": "/weather_app_deploy/static/media/material-icons-sharp.77bc1b022b575be35fa7.woff",
+    "static/media/material-icons-outlined.woff2": "/weather_app_deploy/static/media/material-icons-outlined.5d7deb03b9cecba7d247.woff2",
+    "static/media/material-icons-sharp.woff2": "/weather_app_deploy/static/media/material-icons-sharp.25f4d306806e85bc60f6.woff2",
+    "static/media/material-icons.woff2": "/weather_app_deploy/static/media/material-icons.aba5a2a316a1d312db26.woff2",
+    "static/media/Clear.png": "/weather_app_deploy/static/media/Clear.6e4f36b6f663ff2d4d6a.png",
+    "static/media/LightCloud.png": "/weather_app_deploy/static/media/LightCloud.edc43777fbbf36684278.png",
+    "static/media/Cloud-background.png": "/weather_app_deploy/static/media/Cloud-background.f88244c26c2492e3c5f1.png",
+    "static/media/Showers.png": "/weather_app_deploy/static/media/Showers.ea1e199aedb22fe4dd92.png",
+    "static/media/Sleet.png": "/weather_app_deploy/static/media/Sleet.6ef96c5a2098a6b1a146.png",
     "index.html": "/weather_app_deploy/index.html",
-    "main.e6c13ad2.css.map": "/weather_app_deploy/static/css/main.e6c13ad2.css.map",
-    "main.4e8411e7.js.map": "/weather_app_deploy/static/js/main.4e8411e7.js.map"
+    "main.9fc2d18a.css.map": "/weather_app_deploy/static/css/main.9fc2d18a.css.map",
+    "main.44397668.js.map": "/weather_app_deploy/static/js/main.44397668.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.4e8411e7.js"
+    "static/css/main.9fc2d18a.css",
+    "static/js/main.44397668.js"
   ]
 }
