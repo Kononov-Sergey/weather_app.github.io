@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/weather_app/static/css/main.dc64ba7a.css",
-    "main.js": "/weather_app/static/js/main.cdad522a.js",
+    "main.css": "/weather_app/static/css/main.142136bf.css",
+    "main.js": "/weather_app/static/js/main.f7d05581.js",
     "static/media/material-icons-two-tone.woff": "/weather_app/static/media/material-icons-two-tone.ee71463e28071436d096.woff",
     "static/media/material-icons-two-tone.woff2": "/weather_app/static/media/material-icons-two-tone.7e94e72135150c6b387c.woff2",
     "static/media/material-icons-round.woff": "/weather_app/static/media/material-icons-round.159dc8004e17a33f287f.woff",
@@ -18,11 +18,11 @@
     "static/media/Showers.png": "/weather_app/static/media/Showers.ea1e199aedb22fe4dd92.png",
     "static/media/Sleet.png": "/weather_app/static/media/Sleet.6ef96c5a2098a6b1a146.png",
     "index.html": "/weather_app/index.html",
-    "main.dc64ba7a.css.map": "/weather_app/static/css/main.dc64ba7a.css.map",
-    "main.cdad522a.js.map": "/weather_app/static/js/main.cdad522a.js.map"
+    "main.142136bf.css.map": "/weather_app/static/css/main.142136bf.css.map",
+    "main.f7d05581.js.map": "/weather_app/static/js/main.f7d05581.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc64ba7a.css",
-    "static/js/main.cdad522a.js"
+    "static/css/main.142136bf.css",
+    "static/js/main.f7d05581.js"
   ]
 }
